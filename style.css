@@ -1,0 +1,29 @@
+ table{
+    border: 1px solid black;
+    width: 400px;
+    height: 100px;
+}
+.one{
+    background-color: cyan;
+}
+.first{
+    background-color: antiquewhite;
+}
+.second{
+    background-color: burlywood;
+}
+.third{
+    background-color:peru;
+}
+.two{
+    background-color: skyblue;
+}
+.fourth{
+    background-color: brown;
+}
+.fifth{
+    background-color: gray;
+}
+.sixth{
+    background-color: powderblue;
+}
